@@ -69,8 +69,8 @@ def main():
         'password': args.smtp_password,
         'server': args.smtp_server,
         'port': args.smtp_port,
-        'from': 'Stingy OLX Message Checker',
-        'subject': 'New message in Stingy OLX'
+        'from': 'Yohanes Gultom',
+        'subject': 'Pesan baru di olx.co.id'
     }
 
     olx = StingyOLX()
